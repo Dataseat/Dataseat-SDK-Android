@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DataseatTrackingTester</string>
+    <string name="scan_qr">Scan QR Code</string>
+    <string name="preload">Preload Inter</string>
+    <string name="loadBanner">Load Banner</string>
+    <string name="show">Show Ad</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_camera">This app needs camera permission to scan barcode</string>
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="grant">Grant</string>
+    <string name="cancel">Cancel</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="content_url"><![CDATA[https://storage.googleapis.com/gvabox/media/samples/stock.mp4]]></string>
+
+</resources>
